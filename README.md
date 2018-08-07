@@ -24,6 +24,7 @@ python lexicaseRF.py --skip-train
 
 ## ToDo:
 
-- [ ] Grid search n_estimators, depth, and initial_forrest_factor
-- [ ] Add LexicaseForestRegressor and regression benchmarks
+- [ ] Prevent lexicase from selecting the same tree twice.
+- [ ] Grid search n_estimators, depth, and overpopulate_multiplier.
+- [ ] Add LexicaseForestRegressor and regression benchmarks.
 - [ ] [Other related experiments mentioned on the push-language discourse](https://push-language.hampshire.edu/t/lexicase-tree-bagging/1185/6?u=erp12)
