@@ -16,7 +16,8 @@ python lexicaseRF.py [method] [task]
 
 ### Methods
 
-Currently there is only one supported method to experiment with: `filter`
+Currently there is only one supported method to experiment with: `filter`.
+
 These experiments are for using lexicsae selections to pick the trees in a
 random forest.
 
